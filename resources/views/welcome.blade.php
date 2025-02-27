@@ -757,7 +757,7 @@
     
                         <!-- images -->
                         <div class="col-md-6">
-                            <div class="free_img">
+                            <div class="free_img" dir="ltr">
                                 <img src="{{asset("asset1/images/screen01.png")}}" alt="image" >
                                 <img class="mobile_mockup" src="{{asset("asset1/images/screen02.png")}}" alt="image" >
                             </div>

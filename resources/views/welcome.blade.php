@@ -271,7 +271,7 @@
           <div class="container">
             <div class="section_title" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100">
               <!-- h2 -->
-              <h2><span>{{__("words.Features")}}</span> {{__("words.that makes Glamex App different!")}}</h2>
+              <h2><span>{{app()->getLocale() != 'ar' ? __("words.Features"):""}}</span> {{__("words.that makes Glamex App different!")}}</h2>
               <!-- p -->
               <p>{{__("words.Your beauty appointments, made simple and effortless.")}}</p>
             </div>

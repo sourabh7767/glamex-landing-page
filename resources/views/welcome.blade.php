@@ -937,7 +937,7 @@
                                 <li><a href="#">{{__("words.Home")}}</a></li>
                                 <li><a href="#">{{__("words.About us")}}</a></li>
                                 <li><a href="#gallery">{{__("words.Services")}}</a></li>
-                                <li><a href="#">{{__("words.Blog")}}</a></li>
+                                <li><a href="#newsletter_section">{{__("words.Blog")}}</a></li>
                   <li><a href="https://www.linkedin.com/company/glamex/" target="_blank">{{__("words.Jobs")}}</a></li>
                               </ul>
                           </div>

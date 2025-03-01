@@ -1672,7 +1672,7 @@ body[dir="rtl"] .about_text {
 }
 
 .free_app_section .container {
-    /* max-width: 1370px; */
+    max-width: 1370px;
 }
 
 .free_app_section .container .free_app_inner {
